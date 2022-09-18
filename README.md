@@ -1,3 +1,7 @@
+
+### Read it on my [blog](https://blog.tareqrafed.com/surrealdb-database-from-the-future) 
+
+
 ## WHAT IS SURREALDB!?
 
 SurrealDB is a multi-model database, its engine is powered by Rust, and it delivers a massive amount of features, it's fast, lightweight, schemaless, schemafull, relational, ACID, on-memory, in-disk, embedded and the feature list goes on.
